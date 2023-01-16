@@ -1,0 +1,16 @@
+/*LOGO*/
+
+a.logo {
+    align-self: flex-end;
+    letter-spacing: 10.00px;
+    line-height: 25px;
+    margin-bottom: -2.0px;
+    min-height: 32px;
+    text-align: center;
+    width: 173px;
+    text-decoration: none;
+    cursor: pointer
+  }
+  a.logo:hover{
+    cursor: pointer;
+  }

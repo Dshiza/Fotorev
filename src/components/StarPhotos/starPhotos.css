@@ -1,0 +1,41 @@
+
+.camera{
+    /* margin-left:18px;
+     margin-top: -4px;*/
+     /*
+     align-self: center;
+     padding: 0;
+     margin: 0;
+     position: relative;
+     text-decoration: none;
+  
+    */
+    
+    padding: 0px;
+    
+     
+   }
+  a.star-photos-container{
+    width: 30px;
+    height: 20px;
+    text-decoration: none;
+    position: relative;
+    
+  
+  }
+  a.star-photos-container:hover{
+    cursor: pointer;
+  }
+  .cam-icon{
+    width: 50%;
+    height: 50%;
+  }
+  .star-icon{
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -58%);
+    width: 10px;
+    height: auto;
+    border-color: #ffff;
+  }

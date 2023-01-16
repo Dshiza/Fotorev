@@ -1,0 +1,28 @@
+:root { 
+  --dove-gray: #707070;
+  --dove-gray-2: #70707059;
+  --white: black;
+  --white-2: #ffffff59;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 17px;
+  --font-size-xl: 25px;
+  --font-size-xxl: 100px;
+ 
+  --font-family-helveticaneue-regular: "HelveticaNeue-Regular", Helvetica;
+  --font-family-knewave: "Knewave", Helvetica;
+  --font-family-lato: "Lato", Helvetica;
+
+  --lineRight-icon-left: 4px;
+  --line-icon-top: 0px;
+}
+
+.lato-bold-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+
